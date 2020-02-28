@@ -1,0 +1,3 @@
+[submodule "my_repo_submodule_1"]
+	path = my_repo_submodule_1
+	url = https://github.com/alegouis/my_repo_submodule_1
